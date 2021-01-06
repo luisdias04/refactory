@@ -1,7 +1,8 @@
 # Project Title
 
 This project aims to study the best practices of software design. 
-Through the use of KISS, DRY, YAGNI, SOLID, Clean Code principles.
+Through the use of KISS, DRY, YAGNI, SOLID, Clean Code principles. 
+ TDD and Refactory.
 
 ## Getting Started
 
